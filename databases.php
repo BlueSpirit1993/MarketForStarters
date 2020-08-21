@@ -1,3 +1,4 @@
+//test
 <?php
 $conn = mysqli_connect("localhost","root","" );
 if(!$conn){ die("connection failed:".mysqli_connect_errno()."=".mysqli_connect_error());
